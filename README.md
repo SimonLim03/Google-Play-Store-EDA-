@@ -1,4 +1,6 @@
 # Google-Play-Store-EDA-
+- The Google Play Store is the largest app market in the world but compared to its magnitude, it makes a low amount of money. For example, while the Google Play Store produces double downloads of the Apple App Store, it only makes half the money of the Apple App Store makes. This project tries to solve if there is any issue in Google Play Store applications and investigate any application trend in the Google Play Store.
+- The Google Play Store apps dataset has a plenty of various applications data, which can potentially help many applications-making businesses to a success by analyzing key aspects of the dataset.
 
 
 ## 1. The Number of Apps per Category 
